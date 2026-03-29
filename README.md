@@ -241,10 +241,5 @@ The **Insights & Story** tab auto-generates production-grade mitigations based o
 
 ---
 
-## 📄 License
 
-MIT License — free to use, modify, and distribute.
-
----
-
-*Built as a portfolio project demonstrating data engineering, performance analytics, anomaly detection, and full-stack Python development skills.*
+*Built as a portfolio project demonstrating data engineering, performance analytics*
