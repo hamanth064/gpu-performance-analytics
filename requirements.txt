@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+jinja2
+python-dotenv
+# sqlite3 is built into Python standard library — no install needed
