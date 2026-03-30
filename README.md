@@ -36,6 +36,15 @@
 ### Insights & Story — Key Findings & Narratives
 ![Key Findings](screenshots/07_key_findings.png)
 
+### Correlation Engine — Metric Relationships
+![Correlation Matrix](screenshots/08_correlation_matrix.png)
+
+### Production Strategies — "What Would You Do In Real Life?"
+![Mitigation Strategies](screenshots/09_mitigation_strategies.png)
+
+### SQL Explorer — Pre-built Analytical Query Library
+![SQL Explorer Queries](screenshots/10_sql_explorer_queries.png)
+
 
 ---
 
