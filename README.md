@@ -12,6 +12,9 @@
 
 ## 🖥️ Dashboard Preview
 
+### Initial State — Ready to Analyse
+![Ready to Analyse](screenshots/00_ready_to_analyse.png)
+
 ### System Overview — KPIs & Health Gauges
 ![System Overview](screenshots/01_system_overview.png)
 
@@ -21,14 +24,6 @@
 ### Bottleneck Detection — Timeline & Severity
 ![Bottleneck Detection](screenshots/03_bottleneck_detection.png)
 
-### Anomaly Analysis — Heatmap & Confidence Levels
-![Anomaly Analysis](screenshots/04_anomaly_analysis.png)
-
-### Insights & Story — Key Findings + Correlations + Real-World Mitigations
-![Insights & Story](screenshots/05_insights_story.png)
-
-### SQL Explorer & Reports — Query Library + Custom SQL
-![SQL Explorer](screenshots/06_sql_explorer.png)
 
 ---
 
