@@ -24,6 +24,18 @@
 ### Bottleneck Detection — Timeline & Severity
 ![Bottleneck Detection](screenshots/03_bottleneck_detection.png)
 
+### Bottleneck Events — Detailed Analysis
+![Bottleneck Events Table](screenshots/04_bottleneck_table.png)
+
+### Anomaly Analysis — Heatmap & Confidence Levels
+![Anomaly Analysis](screenshots/05_anomaly_heatmap.png)
+
+### Confirmed Anomalies — Detailed Findings
+![Confirmed Anomalies Table](screenshots/06_anomaly_table.png)
+
+### Insights & Story — Key Findings & Narratives
+![Key Findings](screenshots/07_key_findings.png)
+
 
 ---
 
